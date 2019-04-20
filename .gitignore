@@ -1,0 +1,15 @@
+/settings.py
+/*settings.py
+
+venv/
+
+build/
+dist/
+*.egg-info/
+
+.idea/
+.pytest_cache
+.coverage
+*.pyc
+
+*.log
